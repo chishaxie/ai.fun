@@ -1,0 +1,37 @@
+{
+    "丁": {
+        "location": "伦敦",
+        "color": "绿色",
+        "drink": "朗姆酒",
+        "heirloom": "戒指",
+        "seat": 1
+    },
+    "丙": {
+        "location": "布拉格",
+        "color": "红色",
+        "drink": "威士忌",
+        "heirloom": "鸟形吊坠",
+        "seat": 2
+    },
+    "乙": {
+        "location": "柏林",
+        "color": "蓝色",
+        "drink": "葡萄酒",
+        "heirloom": "钻石",
+        "seat": 3
+    },
+    "戊": {
+        "location": "巴黎",
+        "color": "白色",
+        "drink": "啤酒",
+        "heirloom": "鼻烟壶",
+        "seat": 4
+    },
+    "甲": {
+        "location": "罗马",
+        "color": "紫色",
+        "drink": "苦艾酒",
+        "heirloom": "战争勋章",
+        "seat": 5
+    }
+} 
